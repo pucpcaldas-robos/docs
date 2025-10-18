@@ -14,7 +14,9 @@ O projeto surgiu na disciplina de "Robôs, Sensores e Aplicações", do 3° Per�
 
 Não restringiu-se a colaboração no projeto a alunos exclusivamente do Terceiro Período, possibilitando que membros de outros períodos colaborassem com o Grupo. 
 
-A Universidade, em parceria com a Empresa PluginBot, recebeu três modelos de plataformas para estudos e testes: NAO, Pepper e 
+A Universidade, em parceria com a Empresa PluginBot, recebeu três modelos de plataformas para estudos e testes: NAO, Pepper e o Sanbot.
+
+Foi proposto um Projeto de Iniciação Científica na disciplina com o intuito de avaliar, abordar e imlpementar possíveis funcionalidades aos Robôs.
 
 ## Motivações
 As motivações iniciais e que se seguiram foram:
