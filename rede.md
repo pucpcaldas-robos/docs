@@ -2,7 +2,7 @@ Foi configurado um roteador wifi próprio para os robôs, apenas por conveniênc
 Caso queira conectar em outra rede procure o guia aqui na documentação: robos>(modelo)>guia.md
 # Motivos
 - Facilitar a conexão aos robôs: não ocorrer a troca de IP, toda vez que os robôs reiniciarem.
-- Não ter outros problemas de conexão: não conseguir se conectar ou não conseguir acesso a internet.
+- Não ter outros problemas de conexão, como não conseguir se conectar ou perder acesso a internet.
 - Caso precise reiniciar o wifi para testes ou forçar uma reconexão.
 - Monitorar o trafego da rede e encontrar/manipular erros de request aos servidores externos.
 - Futuro compartilhamento de arquivos via FTP pelo roteador.
