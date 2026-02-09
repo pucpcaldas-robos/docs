@@ -12,3 +12,7 @@ Em setembro de 2025 após o conserto da bateria do NAO, foi realizada uma Inicia
 # Projeções
 O principal motivo de criar uma organização, é de que futuramente os participantes poderem criar seus próprios repositórios de aplicativos para os robôs.
 Novos robôs deverão ser adicionados e para melhor organização, a documentação poderá ser subdividida.
+
+<img width="960" height="540" alt="Apresentação iniciação cientifica" src="https://github.com/user-attachments/assets/306889bf-c4f8-4123-8bac-b44bb0e816d8" />
+<img width="960" height="540" alt="Apresentação iniciação cientifica (1)" src="https://github.com/user-attachments/assets/2594ced6-13fd-42b7-add8-f3883c5de272" />
+<img width="960" height="540" alt="Apresentação iniciação cientifica (2)" src="https://github.com/user-attachments/assets/cc377d42-4399-4d46-8252-2168b5fad6d6" />
